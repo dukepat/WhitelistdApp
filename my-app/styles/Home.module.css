@@ -27,9 +27,10 @@
 }
 
 .description {
-  line-height: 1;
+  line-height: 2;
   margin: 2rem 0;
   font-size: 1.2rem;
+  text-align: center;
 }
 
 .button {
