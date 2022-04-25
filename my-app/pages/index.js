@@ -171,7 +171,7 @@ export default function Home() {
                     <h1 className = { styles.title }> Welcome to Crypto Devs!</h1>
                     <p></p>
                 <div className={styles.description}>
-                    Its an NFT collection for Crypto developers 2.
+                    Its an NFT collection for Crypto developers.
                 </div>
                 <div className = { styles.description } > { numOfWhitelisted } have already joined the Whitelist. </div> 
                 </div> 
@@ -179,7 +179,7 @@ export default function Home() {
                 <div>
                     <img className = { styles.image } src = "./crypto-devs.svg"/> 
                 </div> 
-                <footer className = { styles.footer }> Made with &#10084; from Duke Dev </footer>                                                       
+                <footer className = { styles.footer }> Made with &#10084; from Duke Dev -version 2 </footer>                                                       
             </div>
   )
 }
